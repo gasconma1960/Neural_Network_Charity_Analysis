@@ -27,7 +27,12 @@ To achieve this purpose, we have used a supervised machine learning technique ca
         - NAME
   - **Compiling, Training, and Evaluating the Model**
        - How many neurons, layers, and activation functions did you select for your neural network model, and why?
+       I use a total of:
+       Neurons = 80, Hidden Layers = 30 Activation used was sigmoid
+       ![image](https://user-images.githubusercontent.com/112348240/221383749-21bf23b3-2bb0-4d7d-8c6f-f32ab5b513e9.png)
+
        - Were you able to achieve the target model performance?
        - What steps did you take to try and increase model performance?
 
 ## **Summary**:
+![image](https://user-images.githubusercontent.com/112348240/221384315-c4631cfe-5593-4519-8fb0-fd54fb5d2be1.png)
