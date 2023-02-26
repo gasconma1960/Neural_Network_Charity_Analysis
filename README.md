@@ -1,3 +1,5 @@
+<div style="background-image: url('https://d1m75rqqgidzqn.cloudfront.net/2019/10/shutterstock_1334331986.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
+
 ![image](https://user-images.githubusercontent.com/112348240/221390234-f55c7a01-22af-46db-bab8-ba9e8761535a.png)
 
 # Neural_Network_Charity_Analysis
@@ -78,6 +80,7 @@ To achieve this purpose, we have used a supervised machine learning technique ca
 ![image](https://user-images.githubusercontent.com/112348240/221384315-c4631cfe-5593-4519-8fb0-fd54fb5d2be1.png)
 
 # **Sources**:
+
 GoogleColab
 tensorflow libraries
 charity_data.csv
