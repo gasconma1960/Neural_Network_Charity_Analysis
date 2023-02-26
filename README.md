@@ -1,6 +1,4 @@
-<div style="background-image: url('https://d1m75rqqgidzqn.cloudfront.net/2019/10/shutterstock_1334331986.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-
-![image](https://user-images.githubusercontent.com/112348240/221390234-f55c7a01-22af-46db-bab8-ba9e8761535a.png)
+<div style="background-image: url('https://miro.medium.com/max/1400/1*J7RUyPQ-9UdHAiFMmWY9ww.jpeg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
 
 # Neural_Network_Charity_Analysis
 ## **Overview of the analysis**: 
