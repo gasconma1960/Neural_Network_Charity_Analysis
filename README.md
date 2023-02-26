@@ -1,5 +1,3 @@
-<div style="background-image: url('https://miro.medium.com/max/1400/1*J7RUyPQ-9UdHAiFMmWY9ww.jpeg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-
 # Neural_Network_Charity_Analysis
 ## **Overview of the analysis**: 
  The purpose of this analysis is to create a neural network model that can predict whether to help the foundation predict where to make investments.
