@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/112348240/221390234-f55c7a01-22af-46db-bab8-ba9e8761535a.png)
+
 # Neural_Network_Charity_Analysis
 ## **Overview of the analysis**: 
  The purpose of this analysis is to create a neural network model that can predict whether to help the foundation predict where to make investments.
@@ -74,3 +76,16 @@ To achieve this purpose, we have used a supervised machine learning technique ca
   After trying different steps to improve the results, I wasn't able to reach the 75% target, using the Deep Machine Learning and neural network models. The max achieve was 72.78%, with fourth hidden layers and 50 epochs. 
   
 ![image](https://user-images.githubusercontent.com/112348240/221384315-c4631cfe-5593-4519-8fb0-fd54fb5d2be1.png)
+
+# **Sources**:
+GoogleColab
+tensorflow libraries
+charity_data.csv
+
+## **Module 20 Challenge**
+
+by: **Marisol Gascon Linarez**
+
+**UCF Bootcamp Data Visualization and Analytics**
+
+
