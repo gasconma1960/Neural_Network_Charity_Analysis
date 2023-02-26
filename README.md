@@ -80,7 +80,9 @@ To achieve this purpose, we have used a supervised machine learning technique ca
 # **Sources**:
 
 GoogleColab
+
 tensorflow libraries
+
 charity_data.csv
 
 ## **Module 20 Challenge**
